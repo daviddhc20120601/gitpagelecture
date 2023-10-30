@@ -19,7 +19,7 @@ this is a three lecture less to help kid learn how to make their website with gi
 | Smith   | i like physics | physics is the rules of the world | put in a folder |
 
 
-# 2. lecture 2:
+# 2. [Lecture2](Lecture2.md):
 1. text based website
 1. pic based website
 1. AI powered website
