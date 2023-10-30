@@ -1,11 +1,16 @@
-# gitpagelecture
+# gitpagecourse
 this is a three lecture less to help kid learn how to make their website with gitpages with pic and texts
 
 # 1. lecture 1:
-1. basics of html css and Js
+1. what to expect in this course: https://daviddhc20120601.github.io/academicpages.github.io/
+1. basics of html css and Js and markdown
+   * notepad++
+   * git tool
+   * markdown
 1. basics of gitpage
+   * fork from: https://daviddhc20120601.github.io/academicpages.github.io/
 
-homework: think of what content you want to deliver in your website and fill the form
+1. homework: think of what content you want to deliver in your website and fill the form
 
 | Student |  content idea  |                              text |            pics |
 |---------|:--------------:|----------------------------------:|----------------:|
@@ -16,8 +21,10 @@ homework: think of what content you want to deliver in your website and fill the
 
 # 2. lecture 2:
 1. text based website
-2. pic based website
+1. pic based website
+1. AI powered website
+1. prepare a demo for Lecture 3
 
 # 3. lecture 3:
 1. exhibition and demo
-2. add to the gallary 
+2. add to the gallery 
