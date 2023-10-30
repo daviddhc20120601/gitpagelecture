@@ -35,8 +35,8 @@ this is a three-lecture course to help kid learn how to make their website with 
    Welcome to "MakeYourWebsiteWithGPT," a three-lecture course designed to help kids learn how to create their own websites using GitPages. In this course, students will use text and pictures to build engaging web pages.
 
 2. Teacher Introduction
-
-   In this course, you'll be guided by our experienced teacher, Mr. David Chen. David has a passion for teaching and technology, making learning a fun and engaging experience. With his expertise, you're in good hands for your web development journey.
+   
+   Lecturer Chen focuses on Data and Artificial Intelligence solution in a world famous Tech Giant cloud provider As a former infrastructure director, he was managing multi cloud platform including aws azure google cloud in the domains of gitops , MLops and large language model for AI usage.
 
 3. Course Material
 
@@ -69,8 +69,8 @@ this is a three-lecture course to help kid learn how to make their website with 
 
 2. 老师介绍
 
-   在这门课程中，您将由我们经验丰富的老师David Chen先生指导。David对教育和技术充满热情，使学习成为一次有趣和引人入胜的体验。在他的专业指导下，您将在网站开发之旅中得心应手。
-
+   陈老师专注于数据和人工智能解决方案，在一家全球知名的科技巨头云计算提供商工作。作为一名前基础设施总监，他曾管理多云平台，包括AWS、Azure和Google Cloud，涵盖领域包括GitOps、MLOps以及用于人工智能的大型语言模型。
+   
 3. 课程内容
 
    * 第一讲：
