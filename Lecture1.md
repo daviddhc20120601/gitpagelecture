@@ -14,8 +14,8 @@
 
 1. homework: think of what content you want to deliver in your website and fill the form
 
-| Student |  content idea  |                              text |            pics |
-|---------|:--------------:|----------------------------------:|----------------:|
-| John    | coding is fun  |               what is coding:xxxx | put in a folder |
-| Cathy   | tv is awesome  |    we can enjoy our life with tv: | put in a folder |
-| Smith   | i like physics | physics is the rules of the world | put in a folder |
+| Student |        content idea        |                              text |            pics |
+|---------|:--------------------------:|----------------------------------:|----------------:|
+| John    |        david beckham       |               what is coding:xxxx | put in a folder |
+| Cathy   |     messi        |    we can enjoy our life with tv: | put in a folder |
+| Smith   |    albert einstein       | physics is the rules of the world | put in a folder |
