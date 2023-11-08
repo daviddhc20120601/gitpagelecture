@@ -10,7 +10,8 @@
 1. basics of gitpage
    * what is gitpage [official link](https://docs.github.com/en/pages/quickstart)
    * video [intro](https://www.youtube.com/watch?v=QyFcl_Fba-k)
-   * fork from: https://daviddhc20120601.github.io/academicpages.github.io/
+   * fork from: [this repo](https://daviddhc20120601.github.io/academicpages.github.io/)
+   * learn git in 15 mins [video](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
 1. homework: think of what content you want to deliver in your website and fill the form
 
